@@ -30,3 +30,6 @@ sudo bower install
 ## Reflection Q's
 1. What is the general organization of AngularJS projects?
 2. What do you think AngularJS is doing in the background?
+
+## visit my Site WEB
+### http://bettogc.github.io/frontend-angularjs-lasfm.
